@@ -1,5 +1,5 @@
 # PySDM-reqs
 
-This is a template repository for creating dedicated user images for 2i2c hubs. 
+This repo contains all required packages for hosting the `pysdm-reqs` repository on https://quay.io/repository/jatanbuch/pysdm-reqs
 
-Checkout the 2i2c docs for an in-depth guide on how to use this template repository to create a custom user image and use it for your hub :arrow_right: https://docs.2i2c.org/en/latest/admin/howto/environment/hub-user-image-template-guide.html.
+Checkout the 2i2c docs for an in-depth guide on how to create this template repository to create a custom user image and use it on the LEAP hub through https://docs.2i2c.org/en/latest/admin/howto/environment/hub-user-image-template-guide.html.
