@@ -674,7 +674,7 @@ dependencies:
       - pyneqsys==0.5.7
       - pyodesys==0.14.2
       - pysdm==2.28
-      - pysdm-examples=2.28
+      - pysdm-examples==2.28
       - pystrict==1.3
       - pyvinecopulib==0.6.3
       - quantities==0.14.1
