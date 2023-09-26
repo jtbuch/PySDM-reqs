@@ -12,5 +12,6 @@ dependencies:
   - python=3.10
   # Everyone wants to use nbgitpuller for everything, so let's do that
   - nbgitpuller=1.1.*
+  - seaborn=0.12.2
   # Add other packages here
   # -
