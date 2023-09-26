@@ -152,7 +152,8 @@ dependencies:
   - ptyprocess=0.7.0
   - pure_eval=0.2.2
   - py-cpuinfo=9.0.0
-  - pybind11-abi=4
+  - pybind11=2.11.1
+  - pybind11-global=2.11.1
   - pycosat=0.6.4
   - pycparser=2.21
   - pygments=2.15.1
@@ -259,7 +260,6 @@ dependencies:
     - pint==0.22
     - prometheus-client==0.17.1
     - pulp==2.7.0
-    - pybind11==2.11.1
     - pyevtk==1.6.0
     - pympdata==1.0.14
     - pyneqsys==0.5.7
